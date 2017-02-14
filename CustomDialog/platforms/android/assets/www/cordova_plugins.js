@@ -1,13 +1,5 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
-    {
-        "id": "cordova-plugin-CustomDialogPlugin.CustomDialogPlugin",
-        "file": "plugins/cordova-plugin-CustomDialogPlugin/www/CustomDialogPlugin.js",
-        "pluginId": "cordova-plugin-CustomDialogPlugin",
-        "clobbers": [
-            "navigator.CustomDialogPlugin"
-        ]
-    }
 ];
 module.exports.metadata = 
 // TOP OF METADATA

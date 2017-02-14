@@ -28,6 +28,7 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        navigator.customPlugin.echo();
     },
 
     // Update DOM on a Received Event
