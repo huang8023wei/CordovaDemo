@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtendInfo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExtendInfo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/myproj/test/ExtendInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6825397">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -83,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExtendInfo/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.635514">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.3824092">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -1914,13 +1914,13 @@
         <option value="$PROJECT_DIR$/src/com/javenleung/cordova/ExtraInfo.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/cordova-plugin-CustomDialogPlugin/CustomDialogPlugin.java" />
-        <option value="$PROJECT_DIR$/ExtendInfo/plugin.xml" />
         <option value="$PROJECT_DIR$/res/xml/config.xml" />
         <option value="$PROJECT_DIR$/ExtendInfo/src/android/ExtendInfo.java" />
         <option value="$PROJECT_DIR$/assets/www/plugins/com.myproj.test/www/ExtendInfo.js" />
         <option value="$PROJECT_DIR$/ExtendInfo/www/ExtendInfo.js" />
         <option value="$PROJECT_DIR$/assets/www/cordova_plugins.js" />
         <option value="$PROJECT_DIR$/src/com/myproj/test/ExtendInfo.java" />
+        <option value="$PROJECT_DIR$/ExtendInfo/plugin.xml" />
       </list>
     </option>
   </component>
@@ -2900,14 +2900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtendInfo/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.635514">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/cordova_plugins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6944444">
@@ -2934,11 +2926,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/myproj/test/ExtendInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6825397">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtendInfo/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3824092">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
