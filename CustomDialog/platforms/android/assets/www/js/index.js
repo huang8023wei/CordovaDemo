@@ -28,7 +28,7 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
-        navigator.customPlugin.echo();
+        console.log("2222222222222222");
     },
 
     // Update DOM on a Received Event
@@ -42,6 +42,7 @@ var app = {
 
         console.log('Received Event: ' + id);
     }
+
 };
 
 app.initialize();
