@@ -1,7 +1,7 @@
-cordova.define("com.myproj.test.ExtraInfo", function(require, exports, module) {
+cordova.define("com.myproj.test.ExtendInfo", function(require, exports, module) {
 var exec = require('cordova/exec');
 
-exports.getExtra = function(success, error) {
-    exec(success, error, "ExtendInfo", "getExtra", []);
+exports.toast = function(success, error) {
+    exec(null, null, "ExtendInfo", "toast", []);
 };
 });

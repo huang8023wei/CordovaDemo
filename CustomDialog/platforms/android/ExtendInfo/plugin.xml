@@ -4,13 +4,13 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>ExtendInfo</name>
     <description>Description</description>
-    <js-module name="ExtraInfo" src="www/ExtendInfo.js">
-        <clobbers target="cordova.plugins.ExtendInfo"/>
+    <js-module name="ExtendInfo" src="www/ExtendInfo.js">
+        <clobbers target="ExtendInfo"/>
     </js-module>
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="ExtendInfo">
-                <param name="android-package" value="com.myproj.test.ExtraInfo"/>
+                <param name="android-package" value="com.myproj.test.ExtendInfo"/>
             </feature>
         </config-file>
         <source-file src="src/android/ExtendInfo.java" target-dir="src/com/myproj/test"/>

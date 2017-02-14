@@ -1,5 +1,5 @@
 var exec = require('cordova/exec');
 
-exports.getExtra = function(success, error) {
-    exec(success, error, "ExtendInfo", "getExtra", []);
+exports.toast = function(success, error) {
+    exec(null, null, "ExtendInfo", "toast", []);
 };

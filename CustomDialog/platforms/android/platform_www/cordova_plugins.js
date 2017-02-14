@@ -1,11 +1,11 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
     {
-        "id": "com.myproj.test.ExtraInfo",
+        "id": "com.myproj.test.ExtendInfo",
         "file": "plugins/com.myproj.test/www/ExtendInfo.js",
         "pluginId": "com.myproj.test",
         "clobbers": [
-            "cordova.plugins.ExtendInfo"
+            "ExtendInfo"
         ]
     }
 ];
