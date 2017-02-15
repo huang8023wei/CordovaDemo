@@ -7,10 +7,10 @@
         "is_top_level": true,
         "variables": {}
     },
-    "cordova-plugin-CustomDialogPlugin": {
+    "com.myproj.test": {
         "source": {
             "type": "local",
-            "path": "/Users/hzp/Desktop/CustomDialogPlugin"
+            "path": "platforms\\android\\ExtendInfo"
         },
         "is_top_level": true,
         "variables": {}
